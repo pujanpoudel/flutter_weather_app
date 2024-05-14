@@ -56,6 +56,7 @@ Usage
 bash
 Copy code
 flutter run
+
 2. The app will start with a splash screen and then navigate to the home screen.
 
 3. Enter a location name or leave it blank to fetch weather data automatically based on your current location.
