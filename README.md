@@ -30,13 +30,9 @@ Follow these instructions to set up and run the project on your local machine.
    git clone https://github.com/pujanpoudel/weather_app.git
 
 2. Navigate to the project directory:
-bash
-Copy code
 cd weather_app
 
 3. Install dependencies:
-bash
-Copy code
 flutter pub get
 
 Configuration
@@ -46,15 +42,11 @@ Configuration
 
 3. Add your Weather API key to the .env file:
 
-makefile
-Copy code
 API_KEY=YOUR_API_KEY_HERE
 
 Usage
 1. Run the app on your emulator or device:
 
-bash
-Copy code
 flutter run
 
 2. The app will start with a splash screen and then navigate to the home screen.
